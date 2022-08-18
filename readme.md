@@ -1,0 +1,1 @@
+Prototype du script de récolte de données de l'API Artiguala et conversion dans un format lisible.
